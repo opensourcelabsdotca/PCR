@@ -1,7 +1,7 @@
- #include <Adafruit_GFX.h>     // https://github.com/adafruit/Adafruit-GFX-Library
+#include <Adafruit_GFX.h>     // https://github.com/adafruit/Adafruit-GFX-Library
 #include <Adafruit_PCD8544.h>  // https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library
-#include "Adafruit_MAX31855.h" // 
-https://github.com/adafruit/Adafruit-MAX31855-library
+#include "Adafruit_MAX31855.h" // https://github.com/adafruit/Adafruit-MAX31855-library
+
 #define Relay1 8
 #define Relay2 12
 #define thermoDO 7
